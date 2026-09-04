@@ -26,7 +26,7 @@ Obs.: Projeto proposto em aula do DevClub ✳️
 
 ## Uso
 1ª Opção - via deploy online
-- Acesse o link de deploy do projeto: 
+- Acesse o link de deploy do projeto: https://devthiagoaaguiar.github.io/Conversor-de-Moedas/
 
 2ª Opção - via servidor local
 - Clone o repositório com seus arquivos
